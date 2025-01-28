@@ -30,12 +30,12 @@ To get this project running locally on your machine, follow the steps below:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https://github.com/MagicEmperor30/Portfolio-_web.git
 ```
 
 ### 2. Navigate into the project directory
 ```bash
-cd your-portfolio
+cd Portfolio_web
 ```
 
 ### 3. Install dependencies
