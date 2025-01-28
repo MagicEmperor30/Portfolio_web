@@ -30,7 +30,7 @@ To get this project running locally on your machine, follow the steps below:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/MagicEmperor30/Portfolio-_web.git
+git clone https://github.com/MagicEmperor30/Portfolio_web.git
 ```
 
 ### 2. Navigate into the project directory
