@@ -47,7 +47,7 @@ const Projects = () => {
       image: [Platformer1, Platformer2, platformer3, Platformer4, Platformer5],
       description:
         "Embark on a thrilling 2D platformer adventure where you battle goblins, flying eyes, and the fearsome Death Bringer. Master ground, air, and ranged attacks to defeat enemies and conquer challenging levels. With smooth controls and intense combat, every moment keeps you on your toes. Can you save the realm from destruction?",
-      link: "#",
+      link: "https://magicemperor30.itch.io/realm-of-the-death-bringer",
     },
     {
       title: "King Rush",
