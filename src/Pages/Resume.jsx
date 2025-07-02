@@ -57,7 +57,7 @@ const Resume = () => {
             <p>
               <strong>Complete C# Unity Game Developer 3D</strong> - Udemy
             </p>
-            <a href="/DigvijayCV(GD).pdf" download>
+            <a href="/DigvijayResume.pdf" download>
               <button className="download-btn">
                 Download Game Developer Resume as PDF
               </button>

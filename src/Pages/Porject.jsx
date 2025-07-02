@@ -3,7 +3,7 @@ import Navbar from "../Components/Navbar";
 import ProjectCards from "../Components/ProjectCards";
 import CosmicDrift from "../Assets/ProjectImages/CosmicDrift.png";
 import CastleDefender from "../Assets/ProjectImages/CastleDefender.png";
-import ZombieShooter from "../Assets/ProjectImages/ZombieShooter.png";
+// import ZombieShooter from "../Assets/ProjectImages/ZombieShooter.png";
 import Platformer1 from "../Assets/ProjectImages/Platformer1.png";
 import Platformer2 from "../Assets/ProjectImages/Platformer2.png";
 import platformer3 from "../Assets/ProjectImages/platformer3.png";
@@ -26,22 +26,22 @@ const Projects = () => {
       image: [CosmicDrift],
       description:
         "A thrilling space exploration game developed in Unity, featuring smooth spacecraft movement, acceleration, and obstacle avoidance mechanics. The game offers five unique levels, each with distinct challenges set in vibrant, visually stunning space environments. The intuitive controls ensure a seamless player experience as they navigate through the vast cosmos.",
-      link: "https://sharemygame.com/@MagicEmperor30/cosmic-drift-project-by-magicemperor30",
+      link: "https://magicemperor30.itch.io/cosmic-drift",
     },
     {
       title: "Castle Defenders: 3D Tower Defense Game",
       image: [CastleDefender],
       description:
         "A strategic tower defense game set in a medieval fantasy world, created using voxel art in HD resolution. Players place towers on a grid to defend against waves of enemies while managing limited resources for strategic gameplay. Developed for PC,WebGl with mouse-only controls, offering an engaging and tactical gaming experience.",
-      link: "https://sharemygame.com/@MagicEmperor30/castle-defender-by-magicempror-inspired-by-gamedev",
+      link: "https://magicemperor30.itch.io/castle-defenders",
     },
-    {
-      title: "Zombie Shooter: First-Person Shooter",
-      image: [ZombieShooter],
-      description:
-        "An intense first-person shooter set in a zombie apocalypse, where players engage in immersive combat against AI-driven zombies. Featuring realistic player movement, shooting mechanics, and integrated health and flashlight systems, the game creates an atmosphere of tension. The game includes diverse levels, such as dark forests and bunkers, designed using ProBuilder for an immersive survival experience.",
-      link: "https://sharemygame.com/@MagicEmperor30/zombie-shooter-magicemperor30-gamedevtv",
-    },
+    // {
+    //   title: "Zombie Shooter: First-Person Shooter",
+    //   image: [ZombieShooter],
+    //   description:
+    //     "An intense first-person shooter set in a zombie apocalypse, where players engage in immersive combat against AI-driven zombies. Featuring realistic player movement, shooting mechanics, and integrated health and flashlight systems, the game creates an atmosphere of tension. The game includes diverse levels, such as dark forests and bunkers, designed using ProBuilder for an immersive survival experience.",
+    //   link: "https://sharemygame.com/@MagicEmperor30/zombie-shooter-magicemperor30-gamedevtv",
+    // },
     {
       title: "2DPlatformerGame",
       image: [Platformer1, Platformer2, platformer3, Platformer4, Platformer5],
@@ -54,7 +54,7 @@ const Projects = () => {
       image: [KingsRush1, KingsRush2],
       description:
         "In King Rush, players race across a shaky bridge, dodging procedurally generated physics-based obstacles. The goal is to survive as long as possible, collecting power-ups to speed up or unlock checkpoints. With dynamic challenges and increasing difficulty, every run is unique!",
-      link: "#",
+      link: "https://magicemperor30.itch.io/kings-rush",
     },
     {
       title: "Expense Tracker",
