@@ -1,0 +1,49 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node modules
+/node_modules/
+
+# Build output
+/dist/
+/dist-ssr/
+
+# Vite cache
+/.vite/
+
+# Dependency directories (e.g., yarn, pnpm)
+/.pnp
+/.pnp.js
+
+# dotenv environment variables files
+.env
+.env.*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Windows & Mac system files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Jest cache
+/coverage/
+
+# Temporary files
+/tmp/
+/out/
