@@ -360,7 +360,7 @@
 /* Resume Container */
 .resume-container {
   width: 21cm; /* A4 Width */
-  height: 19cm; /* A4 Height */
+  height: auto; /* A4 Height */
   padding: 40px;
   background-color: #fff;
   border-radius: 8px;

@@ -83,12 +83,6 @@ const Resume = () => {
             <h2>Education</h2>
             <p><strong>B.Sc. in Computer Science, Pune University</strong></p>
             <p>CGPA: 8.8</p>
-
-            <h2>Portfolio</h2>
-            <p><a href="https://digvijay-portfolio-web.onrender.com" target="_blank" rel="noopener noreferrer">
-              digvijay-portfolio-web.onrender.com
-            </a></p>
-
             <a href="/DigvijayResume.pdf" download>
               <button className="download-btn">
                 Download Game Developer Resume as PDF
